@@ -1,0 +1,8 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggest.preview": true,
+    "auto-close-tag.enableAutoCloseTag": false,
+    "auto-close-tag.enableAutoCloseSelfClosingTag": false
+    
+    
+}
